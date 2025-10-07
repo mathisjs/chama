@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+node_modules/
+.claude
+bun.lock
+.next/
+README.md
