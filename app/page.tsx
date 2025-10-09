@@ -147,7 +147,7 @@ export default function Home() {
             </span>
           ) : (
             <img
-              src="/chama.png"
+              src="./chama.png"
               alt="CHAMA"
               className="w-16 h-16 opacity-80 drop-shadow-lg"
             />
